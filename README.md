@@ -20,27 +20,6 @@ This project demonstrates how to design and simulate a subnetted network using C
 - Basic Networking Devices (Router, Switches, PCs)
 - Ethernet Cables
 
----
-
-## 📸 Network Design
-
-![Network Diagram](image/1.png)
-
-### Device Configuration Screenshots
-
-- Router Configuration  
-  ![Router Config](image/2.png)
-
-- Switch & PC IP Settings  
-  ![Switch Config](image/3.png)
-
-- Simulation Test Results  
-  ![Simulation](image/4.png)
-
--Ping Test Results
-![Ping](image/5.png)
-
----
 
 ## 📄 Configuration Snippets (Optional)
 
@@ -49,9 +28,6 @@ Router# configure terminal
 Router(config)# interface g0/0 
 Router(config-if)# ip address 192.168.1.1 255.255.255.224
 Router(config-if)# no shutdown
-
-
----
 
 ## 👩‍💻 Author
 
@@ -66,11 +42,6 @@ Router(config-if)# no shutdown
 
 👉 Full PDF Report: [Subnetting_Project_Report_Aditi_Shyam_Pandit.pdf](./Subnetting_Project_Report_Aditi_Shyam_Pandit.pdf)
 
----
-
-## 📌 Note
-
-Make sure to update image paths after uploading them to the repo!
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
