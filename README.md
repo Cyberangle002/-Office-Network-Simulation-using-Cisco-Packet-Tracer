@@ -23,10 +23,6 @@ This project demonstrates how to design and simulate a subnetted network using C
 ---
 
 ## 📸 Network Design
-## 📸 Network Design
-
-### Network Topology Diagram  
-> Upload screenshots to `/images/` directory in your GitHub repo.
 
 ![Network Diagram](image/1.png)
 
