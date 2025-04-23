@@ -27,21 +27,21 @@ This project demonstrates how to design and simulate a subnetted network using C
 ### Network Topology Diagram  
 > Upload screenshots to `/images/` directory in your GitHub repo.
 
-![Network Diagram](images/1.png)
+![Network Diagram](/LAN_SUBNET_DESIGN Project images/image 1.png)
 
 ### Device Configuration Screenshots
 
 - Router Configuration  
-  ![Router Config](images/2.png)
+  ![Router Config](/LAN_SUBNET_DESIGN Project images/image 2.png)
 
 - Switch & PC IP Settings  
-  ![Switch Config](images/3.png)
+  ![Switch Config](/LAN_SUBNET_DESIGN Project images/image 3.png)
 
 - Simulation Test Results  
-  ![Simulation](images/4.png)
+  ![Simulation](/LAN_SUBNET_DESIGN Project images/image 4.png)
 
 -Ping Test Results
-![Ping](images/4.png)
+![Ping](/LAN_SUBNET_DESIGN Project images/image 5.png)
 
 ---
 
